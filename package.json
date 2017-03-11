@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jishnusundar/authenticationDemo.git"
+    "url": "git+https://github.com/jishnusundar/Week8-AngularIntro.git"
   },
   "keywords": [
     "NodeJS",
@@ -53,7 +53,7 @@
   "author": "Tom Tsiliopoulos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jishnusundar/authenticationDemo/issues"
+    "url": "https://github.com/jishnusundar/Week8-AngularIntro/issues"
   },
-  "homepage": "https://github.com/jishnusundar/authenticationDemo#readme"
+  "homepage": "https://github.com/jishnusundar/Week8-AngularIntro#readme"
 }

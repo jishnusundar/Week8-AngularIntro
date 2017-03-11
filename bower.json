@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/jishnusundar/authenticationDemo",
+  "homepage": "https://github.com/jishnusundar/Week8-AngularIntro",
   "ignore": [
     "**/.*",
     "node_modules",
